@@ -1,1 +1,2 @@
 # Upravljanje
+neki
